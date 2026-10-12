@@ -8,6 +8,11 @@ Software developer with 19 years of professional experience, specializing in ent
 🤝 **Open to:** Remote opportunities, freelance contracts, and enterprise integration projects.
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samrodriguez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Samuel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrodriguez&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+</div>
+<br>
 
 ### 🛠️ Technology Stack
 
