@@ -48,9 +48,11 @@ Software developer with 19 years of professional experience, specializing in ent
 
 ### 🚀 Featured Project
 
-**[Symfony Docker Demo](link-to-your-repo-here)**  
+**[Symfony Docker Demo](https://github.com/samrodriguez/symfony-docker-demo)** *(Nota: verifica que este sea el enlace correcto)*  
 A Docker-based development environment for Symfony applications, designed to organize application services and dependencies and make local development easier to reproduce.
 
+**[🍔 WowFood - Restaurant Food Order System](https://github.com/samrodriguez/wowfoodoriginal)**  
+An educational extracurricular project designed to teach the fundamentals of dynamic web development using pure (Vanilla) PHP and MariaDB without frameworks. It demonstrates client-server interaction and PDO data persistence through an interactive food catalog and order system.
 ---
 
 ### 📫 Let's Connect!
